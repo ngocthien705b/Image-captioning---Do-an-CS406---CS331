@@ -1,8 +1,8 @@
 Thực hiện: Trần Ngọc Thiện - 21521465
 
 Dataset:
-    Link paper: https://arxiv.org/abs/2002.00175
-    Link tải dataset: https://www.kaggle.com/datasets/vitngquang/uit-viic-v1-0-vietnamese-image-captioning
+    * Link paper: https://arxiv.org/abs/2002.00175
+    * Link tải dataset: https://www.kaggle.com/datasets/vitngquang/uit-viic-v1-0-vietnamese-image-captioning
 
 Cách setup demo app:
     1. Tải các thư mục chứa mô hình về, giải nén vào thư mục model. Có thể thay đổi đường dẫn trong các file cnn_lstm_generator.py và transformer_generator.py nếu cần.
